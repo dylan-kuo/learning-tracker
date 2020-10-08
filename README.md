@@ -39,5 +39,5 @@ Git | :bulb: :bulb: :bulb:
 ### Youtube
 - [ ] SQL Server Integration Services (SSIS) by WiseOwlTutorials
 ([Link to Tutorial](https://www.youtube.com/watch?v=3cPq9FXk-RA&list=PLNIs-AWhQzcmPg_uV2BZi_KRG4LKs6cRs))
-  - [ ] Part 1 - Getting Started  (Oct 7)
+  - [x] Part 1 - Getting Started  (10/7)
 
