@@ -43,5 +43,6 @@ Git | :bulb: :bulb: :bulb:
     - Import source data (from sql server db) into excel file
   - [x] part 2 - Performing Basic Tasks (10/7)
     - Import flatfile into sql server db; Data Viewer
-  - [ ] part 3 - Basic Transformations
+  - [x] part 3 - Basic Transformations
+    - Sorting, Aggregration, Sampling data, UNION ALL, synchronous and asynchronous transformations
 
