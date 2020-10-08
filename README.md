@@ -40,4 +40,5 @@ Git | :bulb: :bulb: :bulb:
 - [ ] SQL Server Integration Services (SSIS) by WiseOwlTutorials
 ([Link to Tutorial](https://www.youtube.com/watch?v=3cPq9FXk-RA&list=PLNIs-AWhQzcmPg_uV2BZi_KRG4LKs6cRs))
   - [x] Part 1 - Getting Started  (10/7)
+  - [ ] part 2 - Performing Basic Tasks
 
