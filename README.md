@@ -41,8 +41,9 @@ Git | :bulb: :bulb: :bulb:
 ([Link to Tutorial](https://www.youtube.com/watch?v=3cPq9FXk-RA&list=PLNIs-AWhQzcmPg_uV2BZi_KRG4LKs6cRs))
   - [x] Part 1  - Getting Started  (10/7)
     - Import source data (from sql server db) into excel file
-  - [x] part 2 - Performing Basic Tasks (10/7)
+  - [x] Part 2 - Performing Basic Tasks (10/7)
     - Import flatfile into sql server db; Data Viewer
-  - [x] part 3 - Basic Transformations
+  - [x] Part 3 - Basic Transformations (10/8)
     - Sorting, Aggregration, Sampling data, UNION ALL, synchronous and asynchronous transformations
+  - [ ] Part 4 - Variables
 
