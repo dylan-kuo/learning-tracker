@@ -46,4 +46,5 @@ Git | :bulb: :bulb: :bulb:
   - [x] Part 3 - Basic Transformations (10/8)
     - Sorting, Aggregration, Sampling data, UNION ALL, synchronous and asynchronous transformations
   - [ ] Part 4 - Variables
+    - variales; RowCount transformations; Displaying variable values in script (C#)
 
