@@ -34,6 +34,7 @@ Git | :bulb: :bulb: :bulb:
 - [Kimball_The-Data-Warehouse-Toolkit-3rd-Edition](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf) by Ralph Kimball, Margy Ross
   - [x] Ch1 - Data Warehousing, Business Intelligence, and Dimensional Modeling Primer
   - [x] Ch2 - Kimball Dimensional Modeling Techniques Overview
+  - [ ] Ch3 - Retail Sales
   
 
 ### Youtube
