@@ -55,5 +55,6 @@ Git | :bulb: :bulb: :bulb:
   - [ ] 4 - Advanced Excel - Creating Pivot Tables
   
  ### LinkedIn Learning
- - [ ] [Excel: Pivot Tables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners)
+ - [x] [Excel: Pivot Tables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners) (10/17)
+ - [ ] [Excel PivotTables: Mastering PivotTables and PivotCharts](https://www.linkedin.com/learning/excel-pivottables-mastering-pivottables-and-pivotcharts)
  - [ ] [Excel: Advanced Formulas and Functions](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions)
