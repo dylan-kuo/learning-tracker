@@ -49,7 +49,7 @@ Git | :bulb: :bulb: :bulb:
   
 - [ ] Advanced Excel
 ([Link to Tutorial](https://www.youtube.com/playlist?list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5))
-  - [x] 1 - Excel Basics
-  - [x] 2 - Intermediate Excel Skills, Tips, and Tricks 
-  - [x] 3 - Advanced Excel - VLOOKUP Basics
+  - [x] 1 - Excel Basics (10/16)
+  - [x] 2 - Intermediate Excel Skills, Tips, and Tricks (10/16)
+  - [x] 3 - Advanced Excel - VLOOKUP Basics (10/16)
   - [ ] 4 - Advanced Excel - Creating Pivot Tables
