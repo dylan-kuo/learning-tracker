@@ -35,6 +35,7 @@ Git | :bulb: :bulb: :bulb:
   - [x] Ch1 - Data Warehousing, Business Intelligence, and Dimensional Modeling Primer
   - [x] Ch2 - Kimball Dimensional Modeling Techniques Overview
   - [ ] Ch3 - Retail Sales
+  - [ ] Ch4 - Inventory
   
 
 ### Youtube
