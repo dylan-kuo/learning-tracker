@@ -45,3 +45,10 @@ Git | :bulb: :bulb: :bulb:
   - [x] Part 2 - Performing Basic Tasks (10/7)
   - [x] Part 3 - Basic Transformations (10/8)
   - [ ] Part 4 - Variables
+  
+- [ ] Advanced Excel
+([Link to Tutorial](https://www.youtube.com/playlist?list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5))
+  - [x] 1 - Excel Basics
+  - [x] 2 - Intermediate Excel Skills, Tips, and Tricks 
+  - [x] 3 - Advanced Excel - VLOOKUP Basics
+  - [ ] 4 - Advanced Excel - Creating Pivot Tables
