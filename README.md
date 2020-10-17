@@ -53,3 +53,7 @@ Git | :bulb: :bulb: :bulb:
   - [x] 2 - Intermediate Excel Skills, Tips, and Tricks (10/16)
   - [x] 3 - Advanced Excel - VLOOKUP Basics (10/16)
   - [ ] 4 - Advanced Excel - Creating Pivot Tables
+  
+ ### Youtube
+ - [ ] [Excel: Pivot Tables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners)
+ - [ ] [Excel: Advanced Formulas and Functions](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions)
