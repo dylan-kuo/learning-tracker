@@ -51,7 +51,7 @@ Git | :bulb: :bulb: :bulb:
   - [x] [Excel Basics](https://www.youtube.com/watch?v=rwbho0CgEAE&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=1) (10/16)
   - [x] [Intermediate Excel Skills, Tips, and Tricks](https://www.youtube.com/watch?v=lxq_46nY43g&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=2) (10/16)
   - [x] [Advanced Excel - VLOOKUP Basics](https://www.youtube.com/watch?v=y8ygx1Zkcgs&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=3) (10/16)
-  - [ ] [VLOOKUP Tutorial for Excel - Everything You Need To Know](https://www.youtube.com/watch?v=d3BYVQ6xIE4)
+  - [x] [VLOOKUP Tutorial for Excel - Everything You Need To Know](https://www.youtube.com/watch?v=d3BYVQ6xIE4) (10/17)
   
   
  ### LinkedIn Learning
