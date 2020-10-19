@@ -54,6 +54,10 @@ Git | :bulb: :bulb: :bulb:
   - [x] [VLOOKUP Tutorial for Excel - Everything You Need To Know](https://www.youtube.com/watch?v=d3BYVQ6xIE4) (10/17)
   
   
+- [ ] Others
+  - [x] [What is Data Vault? 3NF vs Dimensional model vs Data Vault](https://www.youtube.com/watch?v=l5UcUEt1IzM) (10/18)
+  
+  
  ### LinkedIn Learning
  - [x] [Excel: Pivot Tables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners) (10/17)
  - [ ] [Excel PivotTables: Mastering PivotTables and PivotCharts](https://www.linkedin.com/learning/excel-pivottables-mastering-pivottables-and-pivotcharts)
