@@ -44,7 +44,7 @@ Git | :bulb: :bulb: :bulb:
   - [x] Part 1  - Getting Started  (10/7)
   - [x] Part 2 - Performing Basic Tasks (10/7)
   - [x] Part 3 - Basic Transformations (10/8)
-  - [ ] Part 4 - Variables
+  - [x] Part 4 - Variables
   
   
 - [ ] Advanced Excel
