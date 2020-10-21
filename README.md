@@ -63,3 +63,11 @@ Git | :bulb: :bulb: :bulb:
  - [x] [Excel: Pivot Tables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners) (10/17)
  - [ ] [Excel PivotTables: Mastering PivotTables and PivotCharts](https://www.linkedin.com/learning/excel-pivottables-mastering-pivottables-and-pivotcharts)
  - [ ] [Excel: Advanced Formulas and Functions](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions)
+
+
+### Articles
+- Business/Investment
+  - [x] [Revenue vs. Profit: What's the Difference?](https://www.investopedia.com/ask/answers/122214/what-difference-between-revenue-and-profit.asp#citation-1) (10/21)
+
+- Advanced Excel
+  - [x] [Conditional Formatting](https://exceldashboardschool.com/conditional-formatting/) (10/21)
