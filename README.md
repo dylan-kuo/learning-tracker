@@ -14,6 +14,7 @@ Tableau | :bulb: :bulb:
 Dimensional Modeling | :bulb:
 ETL | :bulb: :bulb:
 SSIS | :bulb: :bulb:
+Advanced Excel | :bulb: :bulb:
 
 
 ### Programming Languages
@@ -71,3 +72,4 @@ Git | :bulb: :bulb: :bulb:
 
 - Advanced Excel
   - [x] [Conditional Formatting](https://exceldashboardschool.com/conditional-formatting/) (10/21)
+  - [ ] [15 Copy & Paste Tricks for Microsoft Excel](https://www.groovypost.com/howto/15-copy-paste-tricks-for-excel/)
