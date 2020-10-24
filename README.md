@@ -46,24 +46,27 @@ Git | :bulb: :bulb: :bulb:
   - [x] Part 2 - Performing Basic Tasks (10/7)
   - [x] Part 3 - Basic Transformations (10/8)
   - [x] Part 4 - Variables
-  
-  
+
+
 - [ ] Advanced Excel
-  - [x] [Excel Basics](https://www.youtube.com/watch?v=rwbho0CgEAE&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=1) (10/16)
-  - [x] [Intermediate Excel Skills, Tips, and Tricks](https://www.youtube.com/watch?v=lxq_46nY43g&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=2) (10/16)
-  - [x] [Advanced Excel - VLOOKUP Basics](https://www.youtube.com/watch?v=y8ygx1Zkcgs&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=3) (10/16)
-  - [x] [VLOOKUP Tutorial for Excel - Everything You Need To Know](https://www.youtube.com/watch?v=d3BYVQ6xIE4) (10/17)
-  - [x] [INDEX MATCH(An alternative to VLOOKUP)](https://www.youtube.com/watch?v=yH_ArqoB0no) (10/20)
-  - [x] [SUMIFS/COUNTIFS](https://www.xelplus.com/sumifs-countifs-averageifs/) (10/21)
-  
+- [x] [Excel Basics](https://www.youtube.com/watch?v=rwbho0CgEAE&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=1) (10/16)
+- [x] [Intermediate Excel Skills, Tips, and Tricks](https://www.youtube.com/watch?v=lxq_46nY43g&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=2) (10/16)
+- [x] [Advanced Excel - VLOOKUP Basics](https://www.youtube.com/watch?v=y8ygx1Zkcgs&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=3) (10/16)
+- [x] [VLOOKUP Tutorial for Excel - Everything You Need To Know](https://www.youtube.com/watch?v=d3BYVQ6xIE4) (10/17)
+- [x] [INDEX MATCH(An alternative to VLOOKUP)](https://www.youtube.com/watch?v=yH_ArqoB0no) (10/20)
+- [x] [SUMIFS/COUNTIFS](https://www.xelplus.com/sumifs-countifs-averageifs/) (10/21)
+
 - [ ] Others
   - [x] [What is Data Vault? 3NF vs Dimensional model vs Data Vault](https://www.youtube.com/watch?v=l5UcUEt1IzM) (10/18)
-  
-  
- ### LinkedIn Learning
- - [x] [Excel: Pivot Tables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners) (10/17)
- - [ ] [Excel PivotTables: Mastering PivotTables and PivotCharts](https://www.linkedin.com/learning/excel-pivottables-mastering-pivottables-and-pivotcharts)
- - [ ] [Excel: Advanced Formulas and Functions](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions)
+
+
+### LinkedIn Learning
+- [x] [Excel: Pivot Tables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners) (10/17)
+- [ ] [Excel PivotTables: Mastering PivotTables and PivotCharts](https://www.linkedin.com/learning/excel-pivottables-mastering-pivottables-and-pivotcharts)
+- [ ] [Excel: Advanced Formulas and Functions](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions)
+
+### Udemy
+- [ ] [Tableau 2020 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/learn/)
 
 
 ### Articles
