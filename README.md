@@ -76,3 +76,4 @@ Git | :bulb: :bulb: :bulb:
 - Advanced Excel
   - [x] [Conditional Formatting](https://exceldashboardschool.com/conditional-formatting/) (10/21)
   - [ ] [15 Copy & Paste Tricks for Microsoft Excel](https://www.groovypost.com/howto/15-copy-paste-tricks-for-excel/)
+  - [ ] [How to use INDEX and MATCH](https://exceljet.net/index-and-match)
